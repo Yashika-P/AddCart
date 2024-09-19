@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+          "id": 1,
+          "title": "Charger SXT RWD",
+          "price": 32999.99,
+          "quantity": 1,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/vehicle/Charger%20SXT%20RWD/thumbnail.png"
+        },
+        {
+          "id": 2,
+          "title": "Apple MacBook Pro 14 Inch Space Grey",
+          "price": 1999.99,
+          "quantity": 1,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/thumbnail.png"
+        },
+        {
+          "id": 3,
+          "title": "Green Oval Earring",
+          "price": 24.99,
+          "quantity": 1,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Oval%20Earring/thumbnail.png"
+        },
+        {
+          "id": 4,
+          "title": "Apple Airpods",
+          "price": 129.99,
+          "quantity": 5,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/thumbnail.png"
+        },
+        {
+          "id": 5,
+          "title": "Cricket Helmet",
+          "price": 44.99,
+          "quantity": 1,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Helmet/thumbnail.png"
+        },
+        {
+          "id": 6,
+          "title": "iPhone X",
+          "price": 899.99,
+          "quantity": 1,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png"
+        },
+        {
+          "id": 7,
+          "title": "Golf Ball",
+          "price": 9.99,
+          "quantity": 1,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Golf%20Ball/thumbnail.png"
+        },
+        {
+          "id": 8,
+          "title": "iPhone 6",
+          "price": 299.99,
+          "quantity": 1,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%206/thumbnail.png"
+        }
+    ]
+}
+
+      
+   
